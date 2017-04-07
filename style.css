@@ -1,0 +1,49 @@
+h1{
+	text-align: center;
+}
+#contacts-table{
+	background-color: #999;
+	width: 800px;
+	border-collapse: collapse;
+	border: 3px solid black;
+	margin: 10px auto;
+	padding: 5px;
+}
+
+
+#contacts-head th{
+	border: 3px black solid;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	
+}	
+
+#contacts-form {
+	background-color: #999;
+	width: 200px;
+	height: 250px;
+	border: 3px black solid;
+	margin: 10px auto;
+	padding: 5px;
+}
+
+.item-text{
+	font-weight: bold;
+	margin: 10px auto;
+	text-align: center;
+}
+
+
+#button-wrapper{
+	text-align: center;
+	
+}
+
+.contact-style{
+	border: 3px solid black;
+	text-align: center;
+}
+.edit{
+	margin-left: 5px;
+}
